@@ -89,4 +89,4 @@ A recommended book for understanding the theoretical and practical aspects of NL
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Ken0uz/NLP-Practical-Exercises.git
+   git clone https://github.com/Ken0uz/TALN-SII--NLP-Pratical-Exercices.git
